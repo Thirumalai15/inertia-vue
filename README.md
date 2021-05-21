@@ -137,12 +137,17 @@ Once generated, register the HandleInertiaRequests middleware in your App\Http\K
 ]
 ```
 That's it server side setup is done. Now let's see how to create responses. To do this create a controller and route for this 
-```php artisan make:controller <'Your controller name'>
+```
+php artisan make:controller <'Your controller name'>
+
 ```
 Web.php
 Allways use named routes. And it is also easy to link urls vue components 
-```Route::get('/',[TestViewController::class,'index'])->name('index');
 ```
+Route::get('/',[TestViewController::class,'index'])->name('index');
+
+```
+
 Controller File 
 ```
 use Inertia\Inertia;
