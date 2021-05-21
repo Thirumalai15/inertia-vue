@@ -3,7 +3,7 @@ After installing a new laravel project you need to do a some extra setup for cli
 theme called appmeet 
 Dowload the free version 
 
-[AppMeet Theme](#https://wpthemesgrid.com/downloads/appmeet-startup-app-saas-html-template/)
+[AppMeet Theme](https://wpthemesgrid.com/downloads/appmeet-startup-app-saas-html-template/)
 
 Before doing that install laravel/ui package 
 ```
