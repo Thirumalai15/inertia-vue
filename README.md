@@ -1,4 +1,13 @@
-## Inertia Js setup for laravel application
+# This readme guide is for fresh laravel installation only. 
+### If you are cloning an existing repo means do the following 
+```
+composer install 
+```
+```
+npm install && npm run dev
+```
+
+# Inertia Js setup for Fresh laravel application
 After installing a new laravel project you need to do a some extra setup for client side and server side. And we will be using an wordpress 
 theme called appmeet 
 Dowload the free version 
