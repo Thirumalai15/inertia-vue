@@ -95,6 +95,7 @@ mix.js('resources/js/app.js', 'public/js')
         },
     });
 ```
+
 At last run these commands 
 ```
 npm install 
@@ -108,6 +109,12 @@ That's it client side setup is done. Now server side setup
 ```
 composer require inertiajs/inertia-laravel
 ```
+
+Now need to install ziggy package for vue js routing
+```
+composer require tightenco/ziggy
+```
+
 Now set root view 
 create an app.blade.php in resources/views/ add this code. This will be used to load your site assets (CSS and JavaScript).
 Check the app.blade.php for futher information
