@@ -6,6 +6,10 @@ composer install
 ```
 npm install && npm run dev
 ```
+
+```
+cp .env.example .env
+```
 Othewise read the below guide 
 
 # Inertia Js setup for Fresh laravel application
