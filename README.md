@@ -6,6 +6,7 @@ composer install
 ```
 npm install && npm run dev
 ```
+Othewise read the below guide 
 
 # Inertia Js setup for Fresh laravel application
 After installing a new laravel project you need to do a some extra setup for client side and server side. And we will be using an wordpress 
